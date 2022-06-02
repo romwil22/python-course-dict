@@ -1,0 +1,4 @@
+conda create -n <venv name> [pakage install] - create environment and install packages
+conda activate <venv name>- activate environment
+conda deactivate - deacvitate environment
+conda list - show all pakages install
